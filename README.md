@@ -16,8 +16,4 @@ This project implements sentiment analysis to classify customer reviews as posit
 
 The dataset consists of 8,518 reviews for the "YONEX MAVIS 350 Nylon Shuttle" product from Flipkart. Each review includes features such as Reviewer Name, Rating, Review Title, Review Text, Place of Review, Date of Review, Up Votes, and Down Votes.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sentiment-analysis.git
